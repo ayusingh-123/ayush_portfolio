@@ -271,18 +271,18 @@
   
     #skill {
       width: 100%;
-      height: 80vh;
+      height: 100vh;
       margin: 0;
       padding: 0;
       > section {
-       
+          height: 80vmax;
         > article {
           width: 100%;
-          height: 60vmax;
+          height: 70vmax;
           padding-top: 0;
         }
         .skillItem {
-          padding-top: 6rem;
+          padding-top: 4rem;
           height: 50vmax;
           box-shadow: 0 0 5px $color1;
           >img {
