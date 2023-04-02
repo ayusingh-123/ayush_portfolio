@@ -4,7 +4,7 @@
         "date": "07/10/2022",
         "title": "Grocery Store",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://reactone-nine.vercel.app",
+        "url": "https://grocery-store-tau.vercel.app/",
         "imgSrc": "https://i1.wp.com/confettistyle.com/wp-content/uploads/2015/06/Grocery-Store.jpeg"
       },
   
@@ -12,14 +12,14 @@
         "date": "11/10/2022",
         "title": "Web Builder",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-video-app-eight.vercel.app",
+        "url": "https://ayusingh-123.github.io/Webuilder/",
         "imgSrc": "https://www.prowess.org.uk/wp-content/uploads/2019/06/Depositphotos_121501912_s-2019.jpg"
       },
       {
         "date": "15/10/2022",
         "title": "Fitness Edge",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-crypto-app-pi.vercel.app",
+        "url": "https://fitnessedge.vercel.app/body",
         "imgSrc": "https://c4.wallpaperflare.com/wallpaper/787/610/414/muscle-press-pose-athlete-workout-hd-wallpaper-preview.jpg"
       },
   
@@ -27,7 +27,7 @@
         "date": "17/10/2022",
         "title": "Login System",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-cart-eosin.vercel.app",
+        "url": "/",
         "imgSrc": "https://static.vecteezy.com/system/resources/previews/000/185/351/original/shiny-colorful-login-form-ui-template-for-your-web-or-app-desig-vector.jpg"
       },
       {
@@ -36,6 +36,13 @@
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+       {
+        "date": "20/02/2023",
+        "title": "NewSpice",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://new-spice.vercel.app/",
+        "imgSrc": "https://i.huffpost.com/gen/1703063/images/o-NEWS-facebook.jpg"
       }
     ]
   }
