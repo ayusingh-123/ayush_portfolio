@@ -35,10 +35,10 @@
         "title": "PORTFOLIO",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        "imgSrc": "https://redokun.imgix.net/wp/assets/2019/12/09104219/architecture-portfolio-template-35.jpg"
       }
        {
-        "date": "20/02/2023",
+        "date": "10/03/2023",
         "title": "NewSpice",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "https://new-spice.vercel.app/",
