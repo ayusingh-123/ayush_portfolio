@@ -3,7 +3,7 @@
       {
         "date": "07/10/2022",
         "title": "Grocery Store",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This is first web project of my life, when I started learning HTML, CSS & JS. This project is simply to showcase the shopping items and ingredients.",
         "url": "https://grocery-store-tau.vercel.app/",
         "imgSrc": "https://i1.wp.com/confettistyle.com/wp-content/uploads/2015/06/Grocery-Store.jpeg"
       },
@@ -11,14 +11,14 @@
       {
         "date": "11/10/2022",
         "title": "Web Builder",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This is a business website which acts a bridge between the clients and the Business owners. I made this website in the Hackathon by Reskill.",
         "url": "https://ayusingh-123.github.io/Webuilder/",
         "imgSrc": "https://www.prowess.org.uk/wp-content/uploads/2019/06/Depositphotos_121501912_s-2019.jpg"
       },
       {
         "date": "15/10/2022",
         "title": "Fitness Edge",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This website is used to calculate the BMI of your body and also to share the facilites of the gym.",
         "url": "https://fitnessedge.vercel.app/body",
         "imgSrc": "https://c4.wallpaperflare.com/wallpaper/787/610/414/muscle-press-pose-athlete-workout-hd-wallpaper-preview.jpg"
       },
@@ -26,21 +26,21 @@
       {
         "date": "17/10/2022",
         "title": "Login System",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This is an android development app used to manage the attendance system of the school or college.",
         "url": "/",
         "imgSrc": "https://static.vecteezy.com/system/resources/previews/000/185/351/original/shiny-colorful-login-form-ui-template-for-your-web-or-app-desig-vector.jpg"
       },
       {
         "date": "20/10/2022",
         "title": "PORTFOLIO",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This is my portfolio website. You can check my projects and the skills. Even you can see the live demo of my projects.",
         "url": "/",
         "imgSrc": "https://redokun.imgix.net/wp/assets/2019/12/09104219/architecture-portfolio-template-35.jpg"
       },
       {
         "date": "10/03/2023",
         "title": "NewSpice",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "description": "This is the NextJs website used to checkout the trending news from the API - newsapi.org. Seaching Debouncer is also implemented to filter out the latest news.",
         "url": "https://new-spice.vercel.app/",
         "imgSrc": "https://i.huffpost.com/gen/1703063/images/o-NEWS-facebook.jpg"
       }
